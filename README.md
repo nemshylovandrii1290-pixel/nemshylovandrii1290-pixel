@@ -1,4 +1,8 @@
-# 👋 Hello! I'm [Nemsshylov Andrii]
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;Game+Developer;React+Developer;Learning+New+Technologies" />
+</p>
+
+# 👋 Hello! I'm Andrii
 
 I'm a developer interested in web development, software and game development.
 
@@ -17,6 +21,7 @@ Languages:
 - Python
 - HTML
 - CSS
+- SCSS
 
 Tools & frameworks:
 - React
@@ -58,16 +63,6 @@ Currently working on a **personal website built with React**.
 - become a stronger full-stack developer  
 - build several solid open-source projects  
 - release my own game or interactive project in the future
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nemshylovandrii1290-pixel&show_icons=true&theme=github_dark)
-
-## 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nemshylovandrii1290-pixel&layout=compact&theme=github_dark)
 
 ---
 
