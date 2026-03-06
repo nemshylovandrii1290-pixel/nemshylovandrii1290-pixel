@@ -57,13 +57,23 @@ Currently working on a **personal website built with React**.
 
 - become a stronger full-stack developer  
 - build several solid open-source projects  
-- release my own game or interactive project in the future  
+- release my own game or interactive project in the future
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nemshylovandrii1290-pixel&show_icons=true&theme=dark)
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemshylovandrii1290-pixel&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Contact
 
-Telegram: your_link_here
+Telegram: [your_link_here](https://t.me/coreviaofficialchannel)
 
 ---
 
