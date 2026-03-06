@@ -72,8 +72,8 @@ Currently working on a **personal website built with React**.
 
 ## 📫 Contact
 
-Telegram: [https://t.me/coreviaofficialchannel](https://t.me/coreviaofficialchannel)
-Email: nemshylovandrii1290@gmail.com
+- Telegram: [https://t.me/coreviaofficialchannel](https://t.me/coreviaofficialchannel)
+- Email: nemshylovandrii1290@gmail.com
 
 ---
 
