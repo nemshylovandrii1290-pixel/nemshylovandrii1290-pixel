@@ -63,11 +63,11 @@ Currently working on a **personal website built with React**.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nemshylovandrii1290-pixel&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nemshylovandrii1290-pixel&show_icons=true&theme=github_dark)
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemshylovandrii1290-pixel&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nemshylovandrii1290-pixel&layout=compact&theme=github_dark)
 
 ---
 
