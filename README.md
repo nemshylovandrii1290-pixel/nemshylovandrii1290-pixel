@@ -12,7 +12,7 @@ Recently I started focusing more seriously on development and improving my skill
 
 ---
 
-## 💻 Technologies I’ve worked with
+## 🛠 Tech Stack
 
 <p align="left">
 
@@ -73,6 +73,7 @@ Currently working on a **personal website built with React**.
 ## 📫 Contact
 
 Telegram: [https://t.me/coreviaofficialchannel](https://t.me/coreviaofficialchannel)
+Email: nemshylovandrii1290@gmail.com
 
 ---
 
