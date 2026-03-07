@@ -70,7 +70,7 @@ Currently working on a **personal website built with React**.
 
 ---
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=nemshylovandrii1290-pixel&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nemshylovandrii1290-pixel&theme=tokyo-night)
 
 ---
 
