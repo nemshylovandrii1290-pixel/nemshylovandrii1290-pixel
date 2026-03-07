@@ -70,6 +70,10 @@ Currently working on a **personal website built with React**.
 
 ---
 
+![GitHub stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=nemshylovandrii1290-pixel&show_icons=true&theme=tokyonight)
+
+---
+
 ## 📫 Contact
 
 - Telegram: [https://t.me/coreviaofficialchannel](https://t.me/coreviaofficialchannel)
