@@ -81,4 +81,6 @@ Currently working on a **personal website built with React**.
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/nemshylovandrii1290-pixel/nemshylovandrii1290-pixel/output/github-contribution-grid-snake-dark.svg)
+
 ⭐ Thanks for visiting my profile!
