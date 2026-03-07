@@ -39,6 +39,12 @@ Recently I started focusing more seriously on development and improving my skill
 
 </p>
 
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
 ---
 
 ## 🚀 Current focus
@@ -67,6 +73,13 @@ Currently working on a **personal website built with React**.
 - become a stronger full-stack developer  
 - build several solid open-source projects  
 - release my own game or interactive project in the future
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nemshylovandrii1290-pixel&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemshylovandrii1290-pixel&layout=compact&theme=dark)
 
 ---
 
