@@ -14,7 +14,7 @@ Recently I started focusing more seriously on development and improving my skill
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
@@ -31,7 +31,7 @@ Recently I started focusing more seriously on development and improving my skill
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45"/>
 
-</p>
+</div>
 
 ---
 
